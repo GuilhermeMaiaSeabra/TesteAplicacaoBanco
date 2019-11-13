@@ -1,0 +1,7 @@
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\obj\Debug\BancoX.ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\obj\Debug\BancoX.ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\bin\Debug\BancoX.ProjetoTeste.exe.config
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\bin\Debug\BancoX.ProjetoTeste.exe
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\bin\Debug\BancoX.ProjetoTeste.pdb
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\obj\Debug\BancoX.ProjetoTeste.exe
+C:\Users\Windows 7\Desktop\BancoX.ProjetoTeste\BancoX.ProjetoTeste\obj\Debug\BancoX.ProjetoTeste.pdb
