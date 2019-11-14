@@ -10,7 +10,7 @@ _Figura 1. Arquitetura geral do sistema_
 
         O front se comunica com a API por meio de requisições HTTP e a autenticação se dá por meio do padrão OAuth com JWT.
 
-Já os serviços de automação são aplicações console executadas pelo Agendador de Tarefas do Windows ao longo do dia, com diferentes frequências,conforme será descrito na seção 8 deste documento.
+Já os serviços de automação são aplicações console executadas pelo Agendador de Tarefas do Windows ao longo do dia, com diferentes frequências.
 
 
 
